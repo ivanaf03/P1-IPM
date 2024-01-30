@@ -1,0 +1,82 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-10-20 13:38+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: view.py:76
+msgid "COCKTAIL APP"
+msgstr ""
+
+#: view.py:87
+msgid "Home"
+msgstr ""
+
+#: view.py:98
+msgid "WELCOME!"
+msgstr ""
+
+#: view.py:101
+msgid "Authors"
+msgstr ""
+
+#: view.py:108 view.py:234
+msgid "Alcoholic"
+msgstr ""
+
+#: view.py:111
+msgid "Non-alcoholic"
+msgstr ""
+
+#: view.py:123
+msgid "Search cocktails..."
+msgstr ""
+
+#: view.py:125 view.py:132
+msgid "SEARCH"
+msgstr ""
+
+#: view.py:130
+msgid "Search ingredients..."
+msgstr ""
+
+#: view.py:145 view.py:260
+msgid "Error"
+msgstr ""
+
+#: view.py:150 view.py:265
+msgid "ERROR"
+msgstr ""
+
+#: view.py:153
+msgid "Please try checking your connection. :("
+msgstr ""
+
+#: view.py:159 view.py:195 view.py:220 view.py:251 view.py:274
+msgid "HOME"
+msgstr ""
+
+#: view.py:167
+msgid "Cocktail"
+msgstr ""
+
+#: view.py:204
+msgid "Ingredient"
+msgstr ""
+
+#: view.py:268
+msgid "Sorry, your search isn't in our database. :("
+msgstr ""
