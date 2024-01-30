@@ -1,0 +1,83 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-10-20 13:38+0200\n"
+"PO-Revision-Date: 2023-10-20 13:46+0200\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: it\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 3.0.1\n"
+
+#: view.py:42
+msgid "COCKTAIL APP"
+msgstr "COCKTAIL-APP"
+
+#: view.py:54
+msgid "Home"
+msgstr "Home"
+
+#: view.py:93
+msgid "WELCOME!"
+msgstr "WILLKOMMEN!"
+
+#: view.py:99
+msgid "Authors"
+msgstr "Autoren"
+
+#: view.py:135 view.py:315
+msgid "<b><big>Alcoholic</big></b>"
+msgstr "<b><big>Alkoholikerin</big></b>"
+
+#: view.py:146
+msgid "<b><big>Non-alcoholic</big></b>"
+msgstr "<b><big>Alkoholfrei</big></b>"
+
+#: view.py:163
+msgid "Search cocktails..."
+msgstr "Cocktails suchen..."
+
+#: view.py:185 view.py:105 view.py:170
+msgid "SEARCH"
+msgstr "SUCHEN"
+
+#: view.py:179
+msgid "Search ingredients..."
+msgstr "Zutaten suchen..."
+
+#: view.py:202 view.py:346
+msgid "Error"
+msgstr "Fehler"
+
+#: view.py:211 view.py:353
+msgid "ERROR"
+msgstr "Fehler"
+
+#: view.py:215
+msgid "Please try checking your connection. :("
+msgstr "Bitte überprüfen Sie Ihre Verbindung. :("
+
+#:view.py:224 view.py:271 view.py:301 view.py:337 view.py:363
+msgid "HOME"
+msgstr "HOME"
+
+#: view.py:233
+msgid "Cocktail"
+msgstr "Cocktail"
+
+#: view.py:280
+msgid "Ingredient"
+msgstr "Zutat"
+
+#: view.py:356
+msgid "Sorry, your search isn't in our database. :("
+msgstr "Leider befindet sich Ihre Suche nicht in unserer Datenbank. :("
